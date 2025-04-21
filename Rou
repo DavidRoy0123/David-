@@ -1,0 +1,114 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bible Study with DAVID ROY</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom right, #56ab2f, #a8e063);
+      color: white;
+      overflow-x: hidden;
+      position: relative;
+    }h1, h2, h3 {
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+.leaf {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: url('https://i.ibb.co/Pc1RZJ1/leaf.png') no-repeat center/contain;
+  opacity: 0.2;
+  animation: float 20s linear infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(-100px) rotate(0deg);
+    left: 0%;
+  }
+  100% {
+    transform: translateY(120vh) rotate(360deg);
+    left: 100%;
+  }
+}
+
+.frame {
+  margin-top: 40px;
+  padding: 20px;
+  border: 2px dashed white;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+  </style>
+</head>
+<body>
+  <div class="leaf" style="top:-50px; left:10%; animation-delay: 0s;"></div>
+  <div class="leaf" style="top:-80px; left:50%; animation-delay: 5s;"></div>
+  <div class="leaf" style="top:-100px; left:80%; animation-delay: 10s;"></div>  <h1>Bible Study with DAVID ROY</h1>
+  <div class="container">
+    <h2>Jesus on the Cross</h2>
+    <p>
+      <strong>John 3:16</strong> - "For God so loved the world, that he gave his only begotten Son, 
+      that whosoever believeth in him should not perish, but have everlasting life."
+    </p>
+    <p>
+      Jesus was crucified to redeem humanity from sin. His sacrifice was the ultimate act of love. Through His death, we receive grace, mercy, and forgiveness. This act invites us to live a new life, filled with faith and hope.
+    </p><h2>Why is the Bible Important?</h2>
+<p>
+  The Bible is God’s Word. It is the ultimate guidebook for life. It teaches love, patience, peace, strength in adversity, and the path to salvation. The Bible connects us to the Creator and shows us the way to eternal life.
+</p>
+
+<h2>Why Should You Read the Bible?</h2>
+<ul>
+  <li>To understand God’s purpose for your life</li>
+  <li>To find peace and hope during difficult times</li>
+  <li>To gain wisdom and strength</li>
+  <li>To discover the story of Jesus Christ and salvation</li>
+</ul>
+
+<h2>How to Live a Perfect Life with the Bible</h2>
+<p>
+  Living a perfect life doesn’t mean being without mistakes—it means walking with God daily. The Bible helps us:
+</p>
+<ul>
+  <li>Pray and trust in God’s plan</li>
+  <li>Love others selflessly</li>
+  <li>Forgive as Jesus forgave</li>
+  <li>Serve the poor and spread kindness</li>
+</ul>
+<p>
+  Let the Bible shape your thoughts, actions, and relationships. Meditate on its teachings and live by the Word.
+</p>
+
+<div class="frame">
+  <h3>Summary by DAVID ROY</h3>
+  <p>
+    Bible Study with DAVID ROY is a journey of truth, faith, and transformation. Remember:
+  </p>
+  <ul>
+    <li>Jesus gave His life to save yours.</li>
+    <li>The Bible is your guide in darkness.</li>
+    <li>With God’s Word, you can live a joyful, meaningful life.</li>
+  </ul>
+  <p>
+    Always stay rooted in Scripture. This website is your safe place to learn and grow in your walk with Christ. —DAVID ROY
+  </p>
+</div>
+
+  </div>
+</body>
+</html>
